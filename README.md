@@ -27,10 +27,32 @@ zygisknext(zygisk独立实现)
 https://github.com/Dr-TSNG/ZygiskNext/releases
 
 隐藏相关:
-过google完整性验证
-https://github.com/5ec1cff/TrickyStore/releases
 
+过google完整性校验
+https://github.com/5ec1cff/TrickyStore/releases
+https://github.com/chiteroman/PlayIntegrityFix/releases
+
+隐藏root,zygisk相关痕迹
 https://github.com/snake-4/Zygisk-Assistant/releases
 https://github.com/LSPosed/LSPosed.github.io/releases
+
+隐藏应用列表/隐秘空间
 https://github.com/Dr-TSNG/Hide-My-Applist/releases
 https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace/releases
+
+实用模块:
+
+让googleplay商店可以检查更新
+https://github.com/fei-ke/unlock-cn-gms/releases
+
+bilibili增强
+https://github.com/yujincheng08/BiliRoaming/releases
+
+qq增强https://github.com/cinit/QAuxiliary/releases
+
+灭霸
+https://github.com/Tornaco/Thanox/releases
+
+指纹支付
+https://github.com/eritpchy/FingerprintPay/releases
+
