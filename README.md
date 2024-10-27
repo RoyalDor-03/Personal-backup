@@ -17,3 +17,15 @@ Apatch
 https://github.com/bmax121/APatch/releases
 # LsPosed
 LsPosed
+https://github.com/LSPosed/LSPosed/releases
+
+第三方LsPosed(支持Android15)
+https://github.com/mywalkb/LSPosed_mod/releases
+https://github.com/JingMatrix/LSPosed/releases
+# magisk/LsPosed模块
+zygisknext(zygisk独立实现)
+https://github.com/Dr-TSNG/ZygiskNext/releases
+
+隐藏相关
+https://github.com/5ec1cff/TrickyStore/releases
+https://github.com/snake-4/Zygisk-Assistant/releases
