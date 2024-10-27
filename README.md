@@ -26,6 +26,9 @@ https://github.com/JingMatrix/LSPosed/releases
 zygisknext(zygisk独立实现)
 https://github.com/Dr-TSNG/ZygiskNext/releases
 
+Apatch官方kpm仓库
+https://github.com/AndroidPatch/kpm/actions
+
 隐藏相关:
 
 过google完整性校验
@@ -56,3 +59,13 @@ https://github.com/Tornaco/Thanox/releases
 指纹支付
 https://github.com/eritpchy/FingerprintPay/releases
 
+存储重定向https://github.com/MaterialCleaner/MaterialCleaner/releases
+https://github.com/MaterialCleaner/Media-Provider-Manager/releases
+
+# 实用工具
+代理软件
+https://github.com/MetaCubeX/ClashMetaForAndroid/releases
+https://github.com/chen08209/FlClash/releases
+
+自动跳过广告
+https://github.com/gkd-kit/gkd/releases
