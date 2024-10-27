@@ -26,6 +26,11 @@ https://github.com/JingMatrix/LSPosed/releases
 zygisknext(zygisk独立实现)
 https://github.com/Dr-TSNG/ZygiskNext/releases
 
-隐藏相关
+隐藏相关:
+过google完整性验证
 https://github.com/5ec1cff/TrickyStore/releases
+
 https://github.com/snake-4/Zygisk-Assistant/releases
+https://github.com/LSPosed/LSPosed.github.io/releases
+https://github.com/Dr-TSNG/Hide-My-Applist/releases
+https://github.com/Xposed-Modules-Repo/cn.geektang.privacyspace/releases
